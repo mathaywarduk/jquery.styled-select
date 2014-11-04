@@ -18,7 +18,7 @@ Add data-attributes to ```<select>``` elements where necessary
 |----------------------|----------|---------------------------------------|
 | data-ssel | required | Marks select to be replaced   |
 | data-ssel-class | optional | Sets class prefix for style. Default is ```styled-select__``` |
-| data-ssel-toggletext | optional | Sets value for toggle  |
+| data-ssel-toggletext | optional | Sets value for toggle. Default is "Please select"  |
 
 See /demo directory for an example.
 
